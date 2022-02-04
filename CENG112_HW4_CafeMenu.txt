@@ -1,0 +1,32 @@
+Coffee,Caffe Latte,13,16oz
+Coffee,Caffe Mocha,15,16oz
+Coffee,Cappuccino,12,16oz
+Coffee,Caramel Macchiato,17,16oz
+Coffee,Vanilla Latte,15,16oz
+Coffee,Americano,10,12oz
+Coffee,Iced Latte,20,20oz
+Coffee,Iced Caramel Macchiato,21,20oz
+Coffee,Iced Americano,15,20oz
+Tea,Chai Tea Latte,11,12oz
+Tea,Chocolate Chai Tea Latte,13,12oz
+Tea,Vanilla Tea Latte,12,12oz
+Tea,Iced Tea,13,16oz
+Tea,Iced Tea Lemonade,15,16oz
+Tea,Iced  Chai Tea Latte,17,16oz
+Frappuccino, Caramel Frap,20,16oz
+Frappuccino, Coffee Frap,18,16oz
+Frappuccino, Mocha Frap,21,16oz
+Frappuccino, Vanilla Bean Frap,19,16oz
+Frappuccino, Strawberry Frap,23,20oz
+Bakery,Banana Nut Bread,9,420
+Bakery,Pumpkin Bread,10,410
+Bakery,Iced Lemon Loaf Cake,11,470
+Bakery,Blueberry Muffin,10,360
+Bakery,Cheese Danish,9,290
+Bakery,Chocolate Croissant,12,340
+Bakery,Chocolate Chip Cookie,9,360
+Bakery,Chocolate Chunk Brownie,11,365
+
+
+
+
